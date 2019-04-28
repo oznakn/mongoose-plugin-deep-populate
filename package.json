@@ -1,0 +1,27 @@
+{
+  "name": "mongoose-plugin-deep-populate",
+  "version": "1.0.0",
+  "description": "Populate any field in mongoose schemas without thinking about depth",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oznakn/mongoose-plugin-deep-populate.git"
+  },
+  "keywords": [
+    "mongoose",
+    "deep",
+    "population",
+    "auto",
+    "populate",
+    "mongodb"
+  ],
+  "author": "Ozan Akın <ozn.akn@gmail.com>",
+  "peerDependencies": {
+    "mongoose": "4.x || 5.x"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oznakn/mongoose-plugin-deep-populate/issues"
+  },
+  "homepage": "https://github.com/oznakn/mongoose-plugin-deep-populate#readme"
+}
