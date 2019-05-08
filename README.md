@@ -5,7 +5,16 @@ DeepPopulate plugin helps you do some auto population without thinking about dep
 
 ## Installation
 
-For now, just put ```index.js``` file in somewhere in your project, probably with name ```mongoose-plugin-deep-populate.js```.
+Just run
+
+```
+npm install mongoose-plugin-deep-populate
+```
+or
+```
+yarn add mongoose-plugin-deep-populate
+```
+
 
 And just call it from a model created JavaScript file
 

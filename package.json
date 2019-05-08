@@ -1,6 +1,6 @@
 {
   "name": "mongoose-plugin-deep-populate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Populate any field in mongoose schemas without thinking about depth",
   "main": "index.js",
   "repository": {
